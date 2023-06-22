@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and creating websites.
 - 🌱 I’m currently learning C++, html, css, and probably will learn JavaScript.
 
-thats all. you can call me Mr.Nobody.
+thats all. you can call me Mr.Nobody. (Becouse I am Nobody)
 
 <!---
 ProstoGio/ProstoGio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
