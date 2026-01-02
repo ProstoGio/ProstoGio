@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ProstoGio
+- 👋 Hi, I’m Jinji
 - 👀 I’m interested in programming and creating websites.
+- I'm very cool and skibidi person. I bet that I really am 😎
 - 🌱 I’m currently learning C++, html, css, and probably will learn JavaScript.
 
 Side character in your life, Main character in mine.
