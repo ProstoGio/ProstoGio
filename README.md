@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Jinji! 
 
-> "Science is elegant. It is the absolute tool of rule and refinement." — Dr. Xeno 👑
-> *"This is exhilarating!" — Senku Ishigami 🧪*
+> *"Science is elegant. It is the absolute tool of rule and refinement." — Dr. Xeno*
+> *"This is exhilarating! Get excited!" — Senku Ishigami*
 
 Welcome to my corner of GitHub! I’m a developer building things from scratch, one line of code at a time. Whether it's crafting high-performance algorithms or refining web interfaces, I believe programming is the ultimate expression of logic and power.
 
@@ -22,11 +22,3 @@ Just like recreating civilization, mastering code requires absolute precision. H
 * 🧠 **Algorithmic Mastery:** Solving complex problems with elegant solutions.
 * 🌐 **Web Architecture:** Designing clean, responsive web experiences.
 * ⚡ **Constant Evolution:** Pushing the boundaries of what my code can achieve.
-
----
-
-## 📊 Status Report
-
-```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░] 95% Code Precision
-[▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50% JavaScript Acquisition
